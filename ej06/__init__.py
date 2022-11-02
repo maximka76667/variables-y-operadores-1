@@ -1,0 +1,1 @@
+print(input("String: ").__len__())
